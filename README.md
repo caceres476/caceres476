@@ -50,7 +50,6 @@ Sistema de Inteligencia Operativa y Análisis Delincuencial Municipal
 
 ## 📈 Actualmente
 
-- Aprendiendo QA (Quality Assurance)
 - Mejorando buenas prácticas de desarrollo
 - Construyendo proyectos reales
 
