@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Cáceres
 
-🎓 Estudiante del decimo semestre de Ingeniería en Sistemas  
+🎓 Pensum cerrado de Ingeniería en Sistemas  
 💻 Desarrollador Web | Angular • Node.js • SQL  
 🚀 Enfocado en construir soluciones tecnológicas reales  
 🔥 Apasionado por la tecnología, la mejora continua y el aprendizaje constante 
