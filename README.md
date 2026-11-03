@@ -37,7 +37,7 @@ Sistema web para gestión de clínica médica
 
 ---
 ### 🚔 SIOM (En desarrollo)
-Sistema de Inteligencia Operativa y Análisis Delincuencial Municipal  
+Sistema de Inteligencia Operativa y Análisis Delincuencial Municipal.  
 
 🔹 Plataforma orientada a la digitalización, análisis y visualización de datos delictivos  
 🔹 Registro y gestión de incidentes, llamadas y bitácoras policiales  
