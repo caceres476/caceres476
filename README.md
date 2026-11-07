@@ -51,7 +51,7 @@ Sistema de Inteligencia Operativa y Análisis Delincuencial Municipal.
 ## 📈 Actualmente
 
 - Mejorando buenas prácticas de desarrollo
-- Construyendo proyectos reales
+- Construyendo proyectos reales en el sector publico y privado
 
 ---
 
